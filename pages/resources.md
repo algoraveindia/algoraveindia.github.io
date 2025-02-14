@@ -4,16 +4,15 @@ title: Learning Resources
 author: Abhinay Khoparzi
 ---
 
-[A big list of livecoding tools](https://github.com/lvm/awesome-livecoding)
+[Official Guide to Strudel](https://strudel.cc/workshop/getting-started)
 
 [Official Guide to Hydra](https://hydra.ojack.xyz/docs/)
 
-{% for post in site.categories.resources %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <!-- <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}> -->
-      <!-- <h2><span> -->
-        {{ post.title }}
-      <!-- </span></h2> -->
-    <!-- </div> -->
-  </a>
-{% endfor %}
+[Some basics of TidalCycles](https://tidalcycles.org/docs/reference/cycles)
+
+[Complete guide to live-coding visuals in Punctual](https://punctual.savamala.top)
+
+[A list of functions available in Punctual](https://github.com/dktr0/Punctual/blob/main/REFERENCE.md)
+
+And if you want to just see what else is out there in the world of livecoding
+[A big list of livecoding tools](https://github.com/lvm/awesome-livecoding)
