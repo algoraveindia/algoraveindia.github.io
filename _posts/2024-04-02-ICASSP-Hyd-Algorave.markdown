@@ -3,7 +3,7 @@ layout: post
 title: "ICASSP Hyderabad Algorave"
 image: posters/ICASSP-Hyd-Algorave-Apr2025.png
 categories: events
-date: "2024-4-2 14:30:00 +0530"
+date: "2024-04-02 14:30:00 +0530"
 author: "Abhinay Khoparzi"
 ---
 
