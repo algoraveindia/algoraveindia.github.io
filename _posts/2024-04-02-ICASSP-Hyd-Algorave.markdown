@@ -35,7 +35,7 @@ Contact Us:
  [Algorave India](https://instagram.com/algorave_india)
  
 Terms & Conditions:
-1. Entry is limited and based on wether we can accomodate you in the space.
+1. Entry is limited and based on whether we can accomodate you in the space.
 
 2. Music Tech India and Algorave India reserve the right to refuse admission/reject a visitor appearing to be intoxicated, under the influence of drugs or causing any kind of nuisance or otherwise behaving dangerously or inappropriately.
       
