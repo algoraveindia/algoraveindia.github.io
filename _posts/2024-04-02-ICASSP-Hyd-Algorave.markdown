@@ -7,7 +7,7 @@ date: "2025-04-02 14:30:00 +0530"
 author: "Abhinay Khoparzi"
 ---
 
-WIMAGA is a Workshop on Indian Music Analysis and Generative Applications, a Satellite Workshop of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). We are collaborating with support from [Beatoven](https://beatoven.ai) to bring together and Algorave that Hyderabad deserves.
+WIMAGA is a Workshop on Indian Music Analysis and Generative Applications, a Satellite Workshop of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). With support from [Beatoven](https://beatoven.ai) we are collaborating again with [Music Tech India](https://www.instagram.com/musictech.india) to bring together an Algorave that Hyderabad deserves.
 
 We use creative coding tools to write programming code that is manipulated live in full view of the audience to produce sounds and visions to bend minds and jiggle behinds.
 
