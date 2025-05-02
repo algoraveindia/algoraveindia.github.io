@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "7th ORBIT: GENERATIVE GENERATION"
+image-low: posters/7th-orbit-generative-generation-low.jpg
 image: posters/7th-orbit-generative-generation-poster.png
 categories: events
 date: "2025-05-02 00:27:00 +0900"
