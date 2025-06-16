@@ -4,7 +4,12 @@
   </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+      {% if item.name and item.folder and item.file %}
+        <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+      {% endif %}
+      {% if item.name and item.link %}
+        <a href="{{ item.link }}" class="menu-link">{{ item.name }}</a>
+      {% endif %}
     {% endfor %}
 
     {% for item in site.data.settings.social %}
