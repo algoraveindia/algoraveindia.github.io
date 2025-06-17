@@ -15,7 +15,7 @@ We’re raising funds to support the release—this includes producing USB editi
 
 # Artist Lineup
 
-- Nanditi
+- nanditi
 - Kaldi Moss
 - beatnyk
 - Trophallaxis
@@ -31,7 +31,7 @@ We’re raising funds to support the release—this includes producing USB editi
 - Roshini
 - Sushma 
 - Suraj
-- Bhoomi
+- slackertendency
 - Mike
 - Mangesh
 - Sameera
@@ -44,4 +44,5 @@ We’re raising funds to support the release—this includes producing USB editi
 [code.drift](https://www.ajaibghar.com/codedrift) is a collective exploring creative coding through playful urban exploration, generative sound & design practices, and shared learning.
 
 Support us by contributing to experimental arts! 
-Link for crowdfunding page - https://opencollective.com/algorave-india 
+
+Link for crowdfunding page - [https://opencollective.com/algorave-india](https://opencollective.com/algorave-india) 
