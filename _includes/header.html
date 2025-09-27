@@ -8,7 +8,7 @@
         <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
       {% endif %}
       {% if item.name and item.link %}
-        <a href="{{ item.link }}" class="menu-link">{{ item.name }}</a>
+        <a href="{{ item.link }}" class="menu-link { if item.name == "music" }music-link{ endif }">{{ item.name }}</a>
       {% endif %}
     {% endfor %}
 
